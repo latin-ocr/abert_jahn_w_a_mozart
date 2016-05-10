@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./abert_jahn_w_a_mozart_1069.png"; bbox 0 0 1665 2922; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 262 410 1150 420">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 262 410 1150 420">
+     <span class='ocr_line' id='line_1_1' title="bbox 262 410 1150 420; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 262 410 1150 420; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 136 417 138 1755">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 136 417 138 1755">
+     <span class='ocr_line' id='line_1_2' title="bbox 136 417 138 1755; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 136 417 138 1755; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 131 410 1540 2334">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 131 410 1540 2334">
+     <span class='ocr_line' id='line_1_3' title="bbox 131 410 1540 2334; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 131 410 1540 2334; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 818 2326 1518 2334">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 818 2326 1518 2334">
+     <span class='ocr_line' id='line_1_4' title="bbox 818 2326 1518 2334; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 818 2326 1518 2334; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 349 2390 1307 2501">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 349 2390 1307 2501">
+     <span class='ocr_line' id='line_1_5' title="bbox 499 2390 1158 2437; baseline 0.008 -11"><span class='ocrx_word' id='word_1_5' title='bbox 499 2390 638 2436; x_wconf 50' lang='lat' dir='ltr'>§mom-t</span> <span class='ocrx_word' id='word_1_6' title='bbox 661 2390 721 2434; x_wconf 77' lang='lat' dir='ltr'>(im</span> <span class='ocrx_word' id='word_1_7' title='bbox 743 2390 947 2437; x_wconf 49' lang='lat' dir='ltr'>(marteine)</span> <span class='ocrx_word' id='word_1_8' title='bbox 968 2402 1033 2430; x_wconf 69' lang='lat' dir='ltr'>vnn</span> <span class='ocrx_word' id='word_1_9' title='bbox 1057 2395 1158 2431; x_wconf 79' lang='lat'>1762</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 349 2450 1307 2501; baseline 0.006 -14"><span class='ocrx_word' id='word_1_10' title='bbox 349 2457 559 2495; x_wconf 57' lang='lat' dir='ltr'>Unbefieidynetess</span> <span class='ocrx_word' id='word_1_11' title='bbox 577 2450 718 2489; x_wconf 52' lang='lat' dir='ltr'>§witonis</span> <span class='ocrx_word' id='word_1_12' title='bbox 735 2455 910 2498; x_wconf 78' lang='lat' dir='ltr'>(1762s63).</span> <span class='ocrx_word' id='word_1_13' title='bbox 935 2459 1101 2499; x_wconf 62' lang='lat' dir='ltr'>Smogatteum</span> <span class='ocrx_word' id='word_1_14' title='bbox 1119 2465 1146 2492; x_wconf 79' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_15' title='bbox 1164 2462 1307 2501; x_wconf 55' lang='lat' dir='ltr'>C‘chffiburg.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

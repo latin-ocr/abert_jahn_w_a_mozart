@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./abert_jahn_w_a_mozart_0001.png"; bbox 0 0 1665 2922; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 137 226 1542 2180">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 137 226 1542 2180">
+     <span class='ocr_line' id='line_1_1' title="bbox 137 226 1542 2180; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 137 226 1542 2180; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 471 2307 1163 2395">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 471 2307 1163 2395">
+     <span class='ocr_line' id='line_1_2' title="bbox 471 2307 1163 2395; baseline -0.004 -17"><span class='ocrx_word' id='word_1_2' title='bbox 471 2309 734 2395; x_wconf 56' lang='lat' dir='ltr'>{mogum</span> <span class='ocrx_word' id='word_1_3' title='bbox 785 2324 913 2376; x_wconf 69' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_4' title='bbox 971 2307 1163 2375; x_wconf 82' lang='lat'>1789</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 93 2428 1548 2597">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 93 2428 1548 2597">
+     <span class='ocr_line' id='line_1_3' title="bbox 93 2428 1548 2505; baseline -0.003 -14"><span class='ocrx_word' id='word_1_5' title='bbox 93 2435 623 2505; x_wconf 52' lang='lat' dir='ltr'>&amp;lbetssifrgeiaenung</span> <span class='ocrx_word' id='word_1_6' title='bbox 654 2445 751 2490; x_wconf 68' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_7' title='bbox 783 2430 936 2489; x_wconf 57' lang='lat' dir='ltr'>Dona</span> <span class='ocrx_word' id='word_1_8' title='bbox 968 2429 1119 2487; x_wconf 58' lang='lat' dir='ltr'>&amp;nef</span> <span class='ocrx_word' id='word_1_9' title='bbox 1163 2428 1335 2500; x_wconf 62' lang='lat' dir='ltr'>(letil</span> <span class='ocrx_word' id='word_1_10' title='bbox 1375 2433 1548 2494; x_wconf 80' lang='lat'>1789)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 378 2523 1250 2597; baseline -0.005 -12"><span class='ocrx_word' id='word_1_11' title='bbox 378 2526 804 2597; x_wconf 57' lang='lat' dir='ltr'>&amp;Rufifbibliotbef</span> <span class='ocrx_word' id='word_1_12' title='bbox 834 2527 1029 2594; x_wconf 53' lang='lat' dir='ltr'>metet&amp;</span> <span class='ocrx_word' id='word_1_13' title='bbox 1060 2523 1250 2595; x_wconf 53' lang='lat' dir='ltr'>sseipgig</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

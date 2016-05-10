@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./abert_jahn_w_a_mozart_1070.png"; bbox 0 0 1665 2922; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 136 404 1526 2370">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 136 404 1526 2370">
+     <span class='ocr_line' id='line_1_1' title="bbox 136 404 1526 2370; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 136 404 1526 2370; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 301 2413 1360 2521">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 301 2413 1360 2521">
+     <span class='ocr_line' id='line_1_2' title="bbox 659 2413 1007 2457; baseline 0.006 -9"><span class='ocrx_word' id='word_1_2' title='bbox 659 2413 798 2457; x_wconf 55' lang='lat' dir='ltr'>&amp;Rogat-t</span> <span class='ocrx_word' id='word_1_3' title='bbox 817 2421 883 2449; x_wconf 69' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_4' title='bbox 906 2413 1007 2450; x_wconf 82' lang='lat'>1770</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 301 2469 1360 2521; baseline 0.005 -12"><span class='ocrx_word' id='word_1_5' title='bbox 301 2469 438 2510; x_wconf 51' lang='lat' dir='ltr'>&amp;bilonis</span> <span class='ocrx_word' id='word_1_6' title='bbox 453 2488 503 2511; x_wconf 68' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_7' title='bbox 522 2481 655 2518; x_wconf 57' lang='lat' dir='ltr'>&amp;ignarou</span> <span class='ocrx_word' id='word_1_8' title='bbox 672 2481 791 2516; x_wconf 66' lang='grc' dir='ltr'>(ῧαηιιατ</span> <span class='ocrx_word' id='word_1_9' title='bbox 810 2484 915 2517; x_wconf 78' lang='grc'>1770).</span> <span class='ocrx_word' id='word_1_10' title='bbox 933 2485 981 2510; x_wconf 87' lang='lat' dir='ltr'>Dr.</span> <span class='ocrx_word' id='word_1_11' title='bbox 995 2482 1063 2514; x_wconf 51' lang='lat' dir='ltr'>stat!</span> <span class='ocrx_word' id='word_1_12' title='bbox 1081 2483 1264 2521; x_wconf 57' lang='lat' dir='ltr'>RupeImiefen</span> <span class='ocrx_word' id='word_1_13' title='bbox 1282 2487 1360 2514; x_wconf 58' lang='lat' dir='ltr'>{Rieu</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
